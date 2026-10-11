@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=200&section=header&text=Gabriel%20Cardoso&fontSize=40&animation=fadeIn&fontColor=ffffff" alt="Gabriel Cardoso Banner" />
 </p>

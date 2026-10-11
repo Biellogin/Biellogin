@@ -1,16 +1,15 @@
-## Hi there 👋
+<!-- Banner de Apresentação -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Gabriel%20Cardoso&fontSize=40&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
+</p>
 
-<!--
-**Biellogin/Biellogin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👾 > whoami
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```java
+public class Gabriel extends BackendDeveloper {
+    private final String nome = "Gabriel Cardoso";
+    private final String curso = "ADS - UCSAL";
+    private final String cidade = "Salvador, Bahia 🇧🇷";
+    private final String foco = "Engenharia de Dados & Back-end";
+    private final String missao = "Criar soluções de impacto com código limpo 🚀";
+}

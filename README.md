@@ -1,8 +1,3 @@
-Aqui está a estrutura **completa, idêntica à do seu colega Pablo Gualberto**, mas adaptada **100% para o seu perfil e para os seus projetos reais** (como o projeto do Databricks com Olist e o de análise de atrasos aéreos)!
-
----
-
-### 📄 Copie e cole este código no seu `README.md`:
 
 ```markdown
 <p align="center">
@@ -77,11 +72,5 @@ Interesses fora da tela:
 
 ```
 
----
-
-### 💡 Dicas importantes para finalizar:
-1. **Edite seus links de contato:** Na seção `Bora conversar?`, substitua `seuemail@email.com` pelo seu e-mail real.
-2. **Imagens/Badges:** As badges das tecnologias (Python, SQL, Databricks, etc.) foram estilizadas no mesmo padrão de caixas coloridas que o Pablo usou[cite: 5].
-3. **Se quiser um Banner personalizado no topo:** Se você preferir uma imagem igual à caixa vermelha/escura dele[cite: 4], pode criar uma arte no Canva (no tamanho `1200 x 300 px`)[cite: 1, 3] e substituir a tag `<p align="center"><img ... /></p>` no início do arquivo pelo link da sua imagem[cite: 1, 3].
 
 ```
